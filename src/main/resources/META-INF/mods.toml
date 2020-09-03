@@ -19,7 +19,7 @@ version="${file.jarVersion}" #mandatory
  # A display name for the mod
 displayName="Remove Anvil Cap" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="examplemod.png" #optional
+logoFile="removeanvilcap.png" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 A simple mod to remove the maximum level of enchantments
