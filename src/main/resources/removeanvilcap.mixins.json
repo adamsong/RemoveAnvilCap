@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "ml.adamsogm.removeanvilcap.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"common.MixinRepairContainer"
+	],
+	"client": [
+		"client.MixinAnvilScreen"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
